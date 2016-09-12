@@ -1,0 +1,4 @@
+- git: {local-name: naoqi_bridge, uri: "https://github.com/ros-naoqi/naoqi_bridge.git", version: master}
+- git: {local-name: nao_robot, uri: "https://github.com/ros-naoqi/nao_robot.git", version: master}
+- git: {local-name: nao_extras, uri: "https://github.com/ros-naoqi/nao_extras.git", version: master}
+- setup-file: {local-name: ../devel/setup.bash }
